@@ -7,4 +7,4 @@ aby odpalić testy, wpisz w terminalu
 
 podział plików :
 -components podstawowe componenty używane w aplikacji
--componenty deklarujące konkretne strony / urly
+-views deklarujące konkretne strony / urly
